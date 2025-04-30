@@ -1,4 +1,4 @@
-# Pascal Junior Compiler: x86-64 Assembly Code Generator
+# Pascal Junior Compiler
 
 This project extends a compiler to generate x86-64 assembly for a subset of the PJ programming language. Built symbol tables to handle global vs. local variables, 
 managed function calls, return values, and register usage.
